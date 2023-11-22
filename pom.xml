@@ -18,4 +18,11 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <repositories>
+        <repository>
+            <id>my-maven-repo</id>
+            <url>https://github.com/clooo02/common/master</url>
+        </repository>
+    </repositories>
+
 </project>
