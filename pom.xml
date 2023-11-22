@@ -20,7 +20,7 @@
 
     <repositories>
         <repository>
-            <id>my-maven-repo</id>
+            <id>common-maven-repo</id>
             <url>https://github.com/clooo02/common/master</url>
         </repository>
     </repositories>
