@@ -1,4 +1,4 @@
-package github.clooo.common;
+package com.clooo.ichat.common.entity;
 
 import java.time.LocalDateTime;
 
